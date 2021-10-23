@@ -3,7 +3,6 @@
 Hi everyone, I'm Vu Tung Minh (a.k.a thuongton999).
 
 > Just a normal person. Living in Phu Yen, Viet Nam, doing my best for my country and to **code** my life.
----
 ## Contact Me
 
 <p align="center">
@@ -29,8 +28,6 @@ Hi everyone, I'm Vu Tung Minh (a.k.a thuongton999).
         </img>
     </a>
 </p>
-
----
 
 ## Languages and Tools I have learned.
 
@@ -85,8 +82,6 @@ Hi everyone, I'm Vu Tung Minh (a.k.a thuongton999).
         alt="Unity">
     </img>
 </p>
-
----
 
 ## Frameworks and Librarys I have used
 
