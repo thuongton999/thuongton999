@@ -1,35 +1,29 @@
 # ***Hello World!*** 🌍
 
-Hi everyone, I'm Vu Tung Minh (a.k.a thuongton999).
+**Hi everyone, I'm Vu Tung Minh (a.k.a thuongton999) 🐱‍💻**
 
-> Just a normal person. Living in Phu Yen, Viet Nam, doing my best for my country and to **code** my life.
-## Contact Me
+> Just a normal person. Living in Tuy Hoa City, Phu Yen, Viet Nam, doing my best for my country and to **code** my life.
 
-<p align="center">
-    <a
-        href="https://facebook.com/vuminh0809">
-        <img
-            src="Assets/icons/socials/facebook.svg"
-            alt="Facebook">
-        </img>
-    </a>
-    <a
-        href="mailto: thuongton0809999@gmail.com">
-        <img
-            src="Assets/icons/socials/gmail.svg"
-            alt="Gmail">
-        </img>
-    </a>
-    <a
-        href="https://github.com/thuongton999">
-        <img
-            src="Assets/icons/socials/github.svg"
-            alt="Github">
-        </img>
-    </a>
-</p>
+## ***I'm student👨‍🎓, game developer🧑‍💻, front-end developer💻📱🖥️ and a gamer🎮*** 
 
-## Languages and Tools I have learned.
+**About me**: 🤷‍♂️
++ 😂 *I'm not a back-end developer but I know a little bit about back-end to make a complete product (both front-end and back-end).*
++ 🎮 *I'm currently working for a game startup with a MMORPG game product*.
++ 📚 *I'm studying in Luong Van Chanh High School.*
+
+**Fun fact**: 🎉
+
++ *I am also a member of [FCTC (FPT-Software Computer Talents Club)](https://fct-club.com). You can see my dumb face [here](https://fct-club.com/2020-members/), my member code is 01.35.*
+
+
+### ***Contact me***🧑‍💻
+
+[![Facebook](Assets/icons/socials/facebook.svg)](https://facebook.com/vuminh0809)
+[![Gmail](Assets/icons/socials/gmail.svg)](<mailto: thuongton0809999@gmail.com>)
+[![Github](Assets/icons/socials/github.svg)](https://github.com/thuongton999)
+[![Zalo](Assets/icons/socials/zalo.svg)](tel:+84886815758)
+
+## ***Languages and Tools*** ⚙️
 
 <p align="center">
     <img 
@@ -83,7 +77,7 @@ Hi everyone, I'm Vu Tung Minh (a.k.a thuongton999).
     </img>
 </p>
 
-## Frameworks and Librarys I have used
+## ***Frameworks and Librarys I have used*** 📚
 
 <p align="center">
     <a
@@ -117,6 +111,18 @@ Hi everyone, I'm Vu Tung Minh (a.k.a thuongton999).
 </p>
 
 ---
+
+## ***My stats***🏅🏆
+
++ *Second Prize 🥈 in [FPT-Techday 2020, Final Code Fight](https://codelearn.io/fights/detail/5064803)*.
++ *will update soon.........*
+
+<details>
+    <summary>More about me</summary>
+    <p>will update soon.........</p>
+</details>
+
+</br>
 
 <p align="center">
     <img 
