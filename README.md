@@ -108,6 +108,27 @@
             alt="Spring (Spring Boot)">
         </img>
     </a>
+    <a
+        href="https://www.djangoproject.com/">
+        <img
+            src="Assets/icons/frameworks/django.svg"
+            alt="Django (Python)">
+        </img>
+    </a>
+    <a
+        href="https://www.smartfoxserver.com/">
+        <img
+            src="Assets/icons/frameworks/smartfoxserver.svg"
+            alt="SmartFox Server">
+        </img>
+    </a>
+    <a
+        href="https://www.pygame.org/">
+        <img
+            src="Assets/icons/frameworks/pygame.svg"
+            alt="Pygame">
+        </img>
+    </a>
 </p>
 
 ---
