@@ -10,7 +10,7 @@
 + 😂 *A web dev*
 + 🎮 *Working for a game startup with a MMORPG game product*.
 + 📚 *Studying at Luong Van Chanh High School.*
-### **THAT'S ME**
+### **IT'S ME**
 
 **Fun fact**: 🎉
 
