@@ -32,8 +32,8 @@
 
 ## 🏆 GitHub Trophies
 <p align='center'>
-  <img src='https://github-profile-trophy.vercel.app/?username=thuongton999&theme=chalk&no-frame=true&no-bg=true&margin-w=4' alt=''></img></br></br>
-  <img src="https://random-memer.herokuapp.com/" width="512px"/>
+  <img src='https://github-profile-trophy.vercel.app/?username=thuongton999&theme=chalk&no-frame=true&no-bg=true&margin-w=4' alt=''></br></br>
+  <img src="https://random-memer.herokuapp.com/" width="512px">
 </p>
 
 ---
